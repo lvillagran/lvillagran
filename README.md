@@ -1,9 +1,10 @@
 ### Hi, I'm Leonardo Villagran | levisDev 👋 💻
 
-### *Lo que me gusta de mi trabajo es hacer que las <span style="color:blue"> “Ideas se Transformen en Productos de Software”</span>.*
+### *Lo que me gusta de mi trabajo es hacer que las <span style="color:blue"> “Ideas se Transformen en Productos de Software”</span>🚀*
 
 You can find me 🌎:
-- [Linkedin] https://www.linkedin.com/in/lvillagrans/
+- [Linkedin] 💼 https://www.linkedin.com/in/lvillagrans/
+- [Instagram]📸 https://www.instagram.com/levis.dev/
  
 ![lvillagran GitHub stats](https://github-readme-stats.vercel.app/api?username=lvillagran&show_icons=true)
 
@@ -33,4 +34,4 @@ You can find me 🌎:
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white)
 
-
+### *<span style="color:blue"> “Nada es fácil, nada es gratis; el talento puede ayudar, pero la disciplina siempre te llevará lejos”</span>💪🚀*
