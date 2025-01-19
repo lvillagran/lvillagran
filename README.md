@@ -1,7 +1,7 @@
-### Hi, I'm Leonardo Villagran | LevisDev 👋 💻
+### Hi, I'm Leonardo Villagran | levisDev 👋 💻
 
-### *Lo que me gusta de mi trabajo es hacer que las <span style="color:blue"> “Ideas se Transformen en Productos de Software”</span>🚀*
-### *What I love about my job is making <span style="color:blue">”Ideas Turn into Software Products”</span>🚀*
+##### *Lo que me gusta de mi trabajo es hacer que las <span style="color:blue"> “Ideas se Transformen en Productos de Software”</span>🚀*
+##### *What I love about my job is making <span style="color:blue">”Ideas Turn into Software Products”</span>🚀*
 
 You can find me 🌎:
 - [Linkedin] 💼 https://www.linkedin.com/in/lvillagrans/
@@ -35,5 +35,5 @@ You can find me 🌎:
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white)
 
-### *<span style="color:blue"> “Nada es fácil, nada es gratis; el talento puede ayudar, pero la disciplina siempre te llevará lejos”</span>💪🚀*
-### *<span style="color:blue">"Nothing is easy, nothing is free; talent can help, but discipline will always take you far"</span>💪🚀*
+##### *<span style="color:blue"> “Nada es fácil, nada es gratis; el talento puede ayudar, pero la disciplina siempre te llevará lejos”</span>💪🚀*
+##### *<span style="color:blue">"Nothing is easy, nothing is free; talent can help, but discipline will always take you far"</span>💪🚀*
