@@ -5,7 +5,6 @@
 
 You can find me 🌎:
 - [Linkedin] 💼 https://www.linkedin.com/in/lvillagrans/
-- [Instagram]📸 https://www.instagram.com/levis.dev/
  
 ![lvillagran GitHub stats](https://github-readme-stats.vercel.app/api?username=lvillagran&show_icons=true&cache_seconds=1800)
 
