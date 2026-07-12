@@ -8,8 +8,13 @@ You can find me 🌎:
  
 ![lvillagran GitHub stats](https://github-readme-stats.vercel.app/api?username=lvillagran&show_icons=true&cache_seconds=1800)
 
-## Imágenes Docker
-[![Docker Hub](https://img.shields.io/badge/Docker%20Hub-lvillagran-2496ED?logo=docker&logoColor=white)](https://hub.docker.com/u/lvillagran)
+## Docker Hub
+
+Las imágenes Docker versionadas de los microservicios están disponibles públicamente:
+
+[![Docker Hub](https://img.shields.io/badge/Ver%20imágenes-Docker%20Hub-2496ED?logo=docker&logoColor=white)](https://hub.docker.com/u/lvillagran)
+
+> Proyecto bancario educativo. No procesa dinero ni datos financieros reales.
 
 ---
 ### 🛠️ Languages and Tools:
