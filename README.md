@@ -3,17 +3,13 @@
 ##### *Lo que me gusta de mi trabajo es hacer que las <span style="color:blue"> “Ideas se Transformen en Productos de Software”</span>🚀*
 ##### *What I love about my job is making <span style="color:blue">”Ideas Turn into Software Products”</span>🚀*
 
-You can find me 🌎:
-- [Linkedin] 💼 https://www.linkedin.com/in/lvillagrans/
- 
-## 🔗 Enlaces profesionales
+## 🔗 You can find me 🌎:
 
 [![LinkedIn](https://img.shields.io/badge/Ver%20perfil-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lvillagrans/)
 
 [![Docker Hub](https://img.shields.io/badge/Ver%20imágenes-Docker%20Hub-2496ED?logo=docker&logoColor=white)](https://hub.docker.com/u/lvillagran)
 
----
-### 🛠️ Languages and Tools:
+##🛠️ Languages and Tools:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
