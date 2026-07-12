@@ -27,6 +27,13 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ---
+### Enterprise Architecture & Process Modeling
+![MEGA HOPEX](https://img.shields.io/badge/MEGA_HOPEX-Enterprise_Architecture-005EB8?style=for-the-badge)
+![ArchiMate](https://img.shields.io/badge/ArchiMate-Enterprise_Modeling-7B2D8E?style=for-the-badge)
+![BPMN](https://img.shields.io/badge/BPMN-Business_Process_Modeling-F36F21?style=for-the-badge)
+![Bizagi](https://img.shields.io/badge/Bizagi-Process_Modeler-00A9E0?style=for-the-badge)
+
+---
 ### Operating Systems:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
