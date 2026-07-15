@@ -10,6 +10,13 @@
 [![Docker Hub](https://img.shields.io/badge/Ver%20imágenes-Docker%20Hub-2496ED?logo=docker&logoColor=white)](https://hub.docker.com/u/lvillagran)
 
 ---
+
+## 📄 Download my cv
+[![CV Español](https://img.shields.io/badge/Descargar%20CV-Español-success?logo=adobeacrobatreader&logoColor=white)](./assets/cv/CV_Leonardo_Villagran_ES.pdf?raw=true)
+
+[![CV English](https://img.shields.io/badge/Download%20CV-English-blue?logo=adobeacrobatreader&logoColor=white)](./assets/cv/CV_Leonardo_Villagran_EN.pdf?raw=true)
+
+---
 ### 🛠️ Languages and Tools:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
