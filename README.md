@@ -55,3 +55,10 @@
 
 ##### *<span style="color:blue"> “Nada es fácil, nada es gratis; el talento puede ayudar, pero la disciplina siempre te llevará lejos”</span>💪🚀*
 ##### *<span style="color:blue">"Nothing is easy, nothing is free; talent can help, but discipline will always take you far"</span>💪🚀*
+
+
+### 🤝 Conectemos | Let's Connect
+
+Estoy abierto a conversar sobre nuevos proyectos, oportunidades profesionales y desafíos tecnológicos. No dudes en escribirme.
+
+I'm open to discussing new projects, professional opportunities, and technology challenges. Feel free to reach out.
