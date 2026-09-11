@@ -11,7 +11,7 @@
 
 ---
 
-## 📄 Download my cv
+## 📄 Download my CV
 [![CV Español](https://img.shields.io/badge/Descargar%20CV-Español-success?logo=adobeacrobatreader&logoColor=white)](./assets/cv/CV_Leonardo_Villagran_ES.pdf?raw=true)
 
 [![CV English](https://img.shields.io/badge/Download%20CV-English-blue?logo=adobeacrobatreader&logoColor=white)](./assets/cv/CV_Leonardo_Villagran_EN.pdf?raw=true)
