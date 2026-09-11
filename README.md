@@ -6,7 +6,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1100&center=true&vCenter=true&width=950&lines=Welcome+to+my+GitHub+Universe!;Systems+Engineer+%7C+Full+Stack+Developer;Java+%26+Spring+Boot+%7C+Enterprise+Architecture;Learning+Generative+AI"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1100&center=true&vCenter=true&width=950&lines=Welcome+to+my+GitHub!;Systems+Engineer+%7C+Full+Stack+Developer;Java+%26+Spring+Boot+%7C+Enterprise+Architecture;Learning+Generative+AI"
     alt="Leonardo Villagran professional profile"
   />
 </p>
