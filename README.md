@@ -6,13 +6,13 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1100&center=true&vCenter=true&width=950&lines=Welcome+to+my+GitHub!;Systems+Engineer+%7C+Full+Stack+Developer;Java+%26+Spring+Boot+%7C+Enterprise+Architecture;Learning+Generative+AI"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1100&center=true&vCenter=true&width=950&lines=Welcome+to+my+GitHub!;Systems+Engineer+%7C+Full+Stack+Developer;Java+%26+Spring+Boot+%7C+Enterprise+Architecture;Applied+AI+%7C+Continuous+Learning"
     alt="Leonardo Villagran professional profile"
   />
 </p>
 
 <p align="center">
-  <strong>Systems Engineer | Full Stack Developer | Java & Spring Boot | Enterprise Architecture | Learning Generative AI</strong>
+  <strong>Systems Engineer | Full Stack Developer | Java & Spring Boot | Enterprise Architecture | Applied AI | Continuous Learning</strong>
 </p>
 
 ---
@@ -66,8 +66,8 @@
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white)
-![JBoss](https://img.shields.io/badge/JBoss-E2001A?style=for-the-badge&logo=jboss&logoColor=white)
+![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
+![JBoss](https://img.shields.io/badge/JBoss-E2001A?style=for-the-badge&logo=redhat&logoColor=white)
 ![WildFly](https://img.shields.io/badge/WildFly-3F8CBB?style=for-the-badge&logo=wildfly&logoColor=white)
 
 ---
@@ -78,6 +78,29 @@
 ![ArchiMate](https://img.shields.io/badge/ArchiMate-Enterprise_Modeling-7B2D8E?style=for-the-badge)
 ![BPMN](https://img.shields.io/badge/BPMN-Business_Process_Modeling-F36F21?style=for-the-badge)
 ![Bizagi](https://img.shields.io/badge/Bizagi-Process_Modeler-00A9E0?style=for-the-badge)
+
+---
+
+## 🤖 Applied Artificial Intelligence | Inteligencia Artificial Aplicada
+
+> **Continuous Learning | Formación continua**
+
+Actualmente profundizando conocimientos y práctica en Inteligencia Artificial aplicada, con enfoque en la integración de capacidades de IA en soluciones de software y arquitecturas backend.
+
+Currently expanding my knowledge and hands-on practice in applied Artificial Intelligence, with a focus on integrating AI capabilities into software solutions and backend architectures.
+
+### 🧠 AI Technologies & Concepts
+
+![LLMs](https://img.shields.io/badge/LLMs-Large_Language_Models-412991?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-005571?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-Vector_Representations-4A90E2?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-Agentic_Systems-7B2CBF?style=for-the-badge)
+![Fine-tuning](https://img.shields.io/badge/Fine--tuning-Model_Customization-D97706?style=for-the-badge)
+![AI Integration](https://img.shields.io/badge/AI_Integration-Software_Solutions-0F766E?style=for-the-badge)
+
+**Áreas de enfoque:** LLMs, RAG (Retrieval-Augmented Generation), Embeddings, Agentes de IA, Fine-tuning e Integración de soluciones de IA.
+
+**Focus areas:** LLMs, RAG (Retrieval-Augmented Generation), Embeddings, AI Agents, Fine-tuning, and integration of AI solutions.
 
 ---
 
@@ -94,17 +117,17 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeans&logoColor=white)
 
 ---
 
 ## 🤝 Conectemos | Let's Connect
 
-Estoy abierto a conversar sobre proyectos, oportunidades profesionales, arquitectura de soluciones y nuevos desafíos tecnológicos.
+Estoy abierto a conversar sobre proyectos, oportunidades profesionales, arquitectura de soluciones, desarrollo Backend con Java & Spring Boot, Inteligencia Artificial aplicada y nuevos desafíos tecnológicos.
 
 Si deseas intercambiar ideas, explorar una posible colaboración o simplemente conversar sobre tecnología, será un gusto conectar y compartir una buena conversación, incluso alrededor de un café. ☕
 
-I'm open to discussing projects, professional opportunities, solution architecture, and new technology challenges.
+I'm open to discussing projects, professional opportunities, solution architecture, Backend development with Java & Spring Boot, applied Artificial Intelligence, and new technology challenges.
 
 If you'd like to exchange ideas, explore a potential collaboration, or simply talk about technology, I'd be glad to connect and have a good conversation — perhaps over a coffee. ☕
 
