@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <strong>Systems Engineer | Java & Spring Boot | Enterprise Architecture |Currently undergoing training in applied Artificial Intelligence, LLMs, and AI-based solutions.</strong>
+  <strong>Systems Engineer | Java & Spring Boot | Enterprise Architecture | Currently undergoing training in applied Artificial Intelligence, LLMs, and AI-based solutions.</strong>
 </p>
 
 ---
